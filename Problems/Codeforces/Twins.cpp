@@ -3,7 +3,6 @@
 #include <algorithm>
 using namespace std;
 int main() {
-    // Write C++ code here
     int n;
     cin >> n;
     int arr[n];
